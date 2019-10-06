@@ -23,4 +23,5 @@ public class Clasa1 {
         }
         return Nr;
     }
+    //return false;
 }
